@@ -1,7 +1,7 @@
 # taskinator
 
 ## Purpose
-The taskinator was built to 
+The taskinator was built to practice data persistance and browser caching.
 
 ## Built With
 * HTML
